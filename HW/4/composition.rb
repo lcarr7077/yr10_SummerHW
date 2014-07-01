@@ -1,1 +1,35 @@
-#paste code here
+3.times do
+	play 61
+	sleep 0.3
+	play 61
+	sleep 0.3
+	play 59
+	sleep 0.3
+	play 59
+	sleep 0.3
+	play 57
+	sleep 0.3
+	play 57
+	sleep 0.3
+	play 59
+	sleep 0.3
+	play 59
+	sleep 0.3
+	play 62
+	sleep 0.3
+	play 62
+	sleep 0.3
+	play 62
+	sleep 0.3
+	play 62
+	sleep 0.3
+	play 62
+	sleep 0.3
+	play 64
+	sleep 0.3
+	play 64
+	sleep 0.3
+end
+sleep 0.6
+play 54
+
